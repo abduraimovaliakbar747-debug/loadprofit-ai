@@ -1,0 +1,23 @@
+{
+  "name": "loadprofit-ai",
+  "version": "1.0.0",
+  "description": "LoadProfit AI - Logistics Profit Calculator",
+  "main": "indexx.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abduraimovaliakbar747-debug/loadprofit-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abduraimovaliakbar747-debug/loadprofit-ai/issues"
+  },
+  "homepage": "https://github.com/abduraimovaliakbar747-debug/loadprofit-ai#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
